@@ -10,7 +10,6 @@ public class MessagingConsumerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MessagingConsumerApplication.class, args);
-		System.out.println("Running...");
 	}
 
 }

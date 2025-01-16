@@ -12,7 +12,7 @@
 	<artifactId>messaging-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>messaging-consumer</name>
-	<description>Messaging project to consume messages from rabbitmq</description>
+	<description>Messaging project to consume messages from RabbitMQ</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

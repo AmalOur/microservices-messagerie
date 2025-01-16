@@ -12,7 +12,7 @@
 	<artifactId>messaging</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>messaging</name>
-	<description>Messaging project with rabbitmq</description>
+	<description>Messaging project to produce messages from RabbitMQ</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
